@@ -2,7 +2,7 @@
 ```markdown
 # 💼 Personal Portfolio Website
 
-This is a professional **Portfolio Website** built as part of the GrowthLink Internship Program. It showcases personal and professional details, technical projects, and offers a way for potential recruiters or collaborators to connect.
+This is a professional **Portfolio Website** built as a task for the GrowthLink Internship Program. It showcases personal and professional details, technical projects, and offers a way for potential recruiters or collaborators to connect.
 
 🔗 **Live Demo**: [v2w-jobportal.vercel.app](https://v2w-jobportal.vercel.app)  
 📂 **Repository**: [GitHub - VedangWajge/v2w-portfolio](https://github.com/VedangWajge/v2w-portfolio)

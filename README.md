@@ -1,6 +1,3 @@
-Sure! Here's the complete and clean **copyable `README.md`** file for your portfolio website:
-
----
 
 ```markdown
 # 💼 Personal Portfolio Website

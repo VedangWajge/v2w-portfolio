@@ -1,12 +1,69 @@
-# React + Vite
+Sure! Here's the complete and clean **copyable `README.md`** file for your portfolio website:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+```markdown
+# 💼 Personal Portfolio Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a professional **Portfolio Website** built as part of the GrowthLink Internship Program. It showcases personal and professional details, technical projects, and offers a way for potential recruiters or collaborators to connect.
 
-## Expanding the ESLint configuration
+🔗 **Live Demo**: [v2w-jobportal.vercel.app](https://v2w-jobportal.vercel.app)  
+📂 **Repository**: [GitHub - VedangWajge/v2w-portfolio](https://github.com/VedangWajge/v2w-portfolio)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Objective
+
+Create a professional online resume to showcase:
+
+- About Section  
+- Technical & Non-technical Skills  
+- Projects with descriptions and links  
+- Contact Form  
+- Responsive Design (Mobile-friendly)
+
+---
+
+## 🚀 Features
+
+- **About Section**: A brief introduction about yourself.
+- **Skills**: Highlights of your technical and soft skills.
+- **Projects**: Display of top projects with GitHub/Live links.
+- **Contact Form**: Functional contact form for reaching out.
+- **Responsive Design**: Optimized for desktop and mobile views.
+
+---
+
+## ⚙️ Tech Stack Used
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Hosting**: Vercel
+
+---
+
+## 🧾 Local Setup Instructions
+
+To run this project locally, follow these steps:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/VedangWajge/v2w-portfolio.git
+cd v2w-portfolio
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the Development Server
+
+```bash
+npm start
+```
+
+Visit [http://localhost:3000](http://localhost:3000) to view it in your browser.
+

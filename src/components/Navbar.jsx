@@ -34,6 +34,14 @@ export const Navbar = ({menuOpen, setMenuOpen}) => {
                         <a href="#contact" className="text-gray-300 hover:text-white transition-colors">
                             Contact
                         </a>
+
+                        <a
+                            href="/resume.pdf"
+                            download="Vedang_Wajge_Resume.pdf"
+                            className="bg-blue-500 text-white px-4 py-2 rounded font-medium transition hover:bg-blue-600 hover:shadow-lg"
+                        >
+                            Resume
+                        </a>
                     </div>
                 </div>
             </div>

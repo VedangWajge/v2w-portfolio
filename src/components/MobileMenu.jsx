@@ -27,6 +27,15 @@ export const MobileMenu = ({menuOpen, setMenuOpen}) => {
                 Contact
             </a>
 
+            <a
+                href="/resume.pdf"
+                download="Vedang_Wajge_Resume.pdf"
+                className={`bg-blue-500 text-white px-6 py-3 rounded font-medium my-4 transform transition-transform duration-300 ${menuOpen ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"}`}
+                onClick={() => setMenuOpen(false)}
+            >
+                Download Resume
+            </a>
+
         </div>
     );
 };
